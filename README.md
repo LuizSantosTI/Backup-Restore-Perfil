@@ -38,9 +38,9 @@ Obs: Após realizar o backup e formatado a máquina executar o passo a passo do 
 
 ![image](https://user-images.githubusercontent.com/126285028/226125674-0518834a-56fa-4fc2-8301-33849b246f71.png)
 
-3) Ao fim do Processo de Backup será mostrado um relatório para conferencia do Restore.
+3) Ao fim do Processo de Restore será mostrado um relatório para conferencia do Restore.
 
-![image](https://user-images.githubusercontent.com/126285028/226123921-6df85583-69fe-4291-9e60-e3d059e666a8.png)
+![image](https://user-images.githubusercontent.com/126285028/226125763-1f52b075-8f0d-45e9-9320-1130e5253211.png)
 
 4) Por fim ao finalizar o Restore, basta reiniciar a máquina e logar com login do usuário e será restaurado automáticamente os arquivos.
 
