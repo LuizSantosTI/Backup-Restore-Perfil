@@ -20,7 +20,7 @@ Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=i
 
 4) Tela da realização do Backup.
 
-![image](https://user-images.githubusercontent.com/126285028/226124574-b9dcbe18-1a9d-47e0-8cf5-4f33be539a11.png)
+![image](https://user-images.githubusercontent.com/126285028/226125152-0c62b1ab-826b-4243-8ad1-23e51be0b8fc.png)
 
 5) Ao fim do Processo de Backup será mostrado um relatório para conferencia do backup.
 
