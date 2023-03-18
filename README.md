@@ -36,7 +36,7 @@ Obs: Após realizar o backup e formatado a máquina executar o passo a passo do 
 
 2) Nesta tela, selecionar o caminho onde foi realizado o Backup.
 
-![image](https://user-images.githubusercontent.com/126285028/226124328-602dc855-a8dd-46dd-8140-7157cf81b263.png)
+![image](https://user-images.githubusercontent.com/126285028/226125674-0518834a-56fa-4fc2-8301-33849b246f71.png)
 
 3) Ao fim do Processo de Backup será mostrado um relatório para conferencia do Restore.
 
