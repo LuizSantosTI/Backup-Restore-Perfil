@@ -16,7 +16,7 @@ Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=i
 
 3) Nesta tela, selecionar o caminho que sera realizado o backup e o destino.
 
-![image](https://user-images.githubusercontent.com/126285028/226122750-06224499-9d94-4911-8a35-672ca872f438.png)
+![image](https://user-images.githubusercontent.com/126285028/226124498-68832727-c476-434e-9fa8-64ea46491e32.png)
 
 4) Tela da realização do Backup.
 
