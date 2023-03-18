@@ -15,12 +15,12 @@ Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=i
 ![image](https://user-images.githubusercontent.com/126285028/226122679-93303df5-2d4d-4173-9470-80498fff8e1a.png)
 
 3) Nesta tela, selecionar o caminho que sera realizado o backup e o destino.
-
-![image](https://user-images.githubusercontent.com/126285028/226124498-68832727-c476-434e-9fa8-64ea46491e32.png)
+ 
+![image](https://user-images.githubusercontent.com/126285028/226124543-146d71ea-0de2-465c-bd31-67b9030d2d85.png)
 
 4) Tela da realização do Backup.
 
-![image](https://user-images.githubusercontent.com/126285028/226122953-cc26ea02-4ef2-404a-95c8-629a0325d592.png)
+![image](https://user-images.githubusercontent.com/126285028/226124574-b9dcbe18-1a9d-47e0-8cf5-4f33be539a11.png)
 
 5) Ao fim do Processo de Backup será mostrado um relatório para conferencia do backup.
 
