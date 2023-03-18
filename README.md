@@ -23,7 +23,7 @@ Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=i
 
 5) Ao fim do Processo de Backup será mostrado um relatório para conferencia do backup.
 
-
+![image](https://user-images.githubusercontent.com/126285028/226123820-2ab47c1c-5e2e-41f4-b2f2-48d9d45d38d7.png)
 
 # Restore:
 
@@ -33,4 +33,15 @@ Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=i
 325d592.png)
 
 5) Ao fim do Processo de Backup será mostrado um relatório para conferencia do Restore.
+
+![image](https://user-images.githubusercontent.com/126285028/226123921-6df85583-69fe-4291-9e60-e3d059e666a8.png)
+
+6) Por fim ao finalizar o Restore, basta reiniciar a máquina e logar com login do usuário e será restaurado automáticamente os arquivos.
+
+Agradeço.
+
+Contato:
+
+Luiz Gustavo Queroga dos Santos
+Analista de TI Sr.
 
