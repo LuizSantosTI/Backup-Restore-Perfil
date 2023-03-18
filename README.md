@@ -5,7 +5,7 @@ Passo a Passo:
 
 Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=iaIZtb
 
-# BKP:
+# BACKUP:
 
 1) Baixar o conteúdo  e extrair para a maquina que sera realizado o Backup.
 
