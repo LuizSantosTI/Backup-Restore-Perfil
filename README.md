@@ -1,4 +1,4 @@
-# Backup-Restore-Perfil
+# Backup_Restore_Perfil_Usuario
 
 Objetivo: Programa criado em Powershell, com intuito de ajudar aos técnicos de TI que necessitam fazer backup e restore dos perfis dos usuários, de modo prático.
 
