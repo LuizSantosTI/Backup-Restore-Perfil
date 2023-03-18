@@ -3,6 +3,7 @@ Programa criada em Powershell, com intuito de ajudar aos técnicos de TI que nec
 
 Passo a Passo:
 
+Onedrive: Link do Download: https://1drv.ms/f/s!Aq27nnar-w41h3cMEVwnvsbEGp0T?e=iaIZtb
 
 # BKP:
 
